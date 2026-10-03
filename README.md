@@ -1,11 +1,5 @@
 # CodeAlpha FAQ Chatbot
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-TF--IDF-F7931E?logo=scikitlearn&logoColor=white)
-![Tests](https://img.shields.io/badge/tests-44%20passed-brightgreen)
-![Offline](https://img.shields.io/badge/runs-100%25%20offline-blue)
-
 An offline FAQ chatbot that I built for **CodeAlpha Internship - Task 2**. It understands questions that are worded
 differently from the stored FAQs, finds the best match using **TF-IDF and cosine similarity**, shows a match score,
 and replies with a safe fallback instead of guessing. The interface is a dark, futuristic AI-assistant dashboard
