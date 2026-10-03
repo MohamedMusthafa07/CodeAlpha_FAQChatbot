@@ -1,0 +1,284 @@
+{
+  "faqs": [
+    {
+      "id": "ACC-01",
+      "category": "Account",
+      "question": "How do I update my profile information?",
+      "answer": "Open your account menu, choose Profile, edit your details such as name or phone number, and click Save Changes.",
+      "keywords": ["edit profile", "change name", "personal details", "update details"]
+    },
+    {
+      "id": "ACC-02",
+      "category": "Account",
+      "question": "How can I delete my account?",
+      "answer": "Go to Settings > Account > Delete Account and confirm. Deletion is permanent, so download any certificates or invoices first.",
+      "keywords": ["close account", "remove account", "deactivate", "delete profile permanently"]
+    },
+    {
+      "id": "ACC-03",
+      "category": "Account",
+      "question": "Can I change my registered email address?",
+      "answer": "Yes. Go to Settings > Account > Email, enter the new address, and confirm it using the verification link we send you.",
+      "keywords": ["update email", "new email", "change email id", "different email"]
+    },
+    {
+      "id": "ACC-04",
+      "category": "Account",
+      "question": "How do I enable two-factor authentication?",
+      "answer": "Open Settings > Security, switch on Two-Factor Authentication, and follow the steps to link an authenticator app.",
+      "keywords": ["2fa", "extra security", "secure account", "verification code", "authenticator"]
+    },
+    {
+      "id": "REG-01",
+      "category": "Registration",
+      "question": "How do I register for the platform?",
+      "answer": "Click Sign Up on the home page, enter your name, email and a password, then confirm your email address to activate the account.",
+      "keywords": ["sign up", "create account", "new user", "join platform", "make an account"]
+    },
+    {
+      "id": "REG-02",
+      "category": "Registration",
+      "question": "Is registration free?",
+      "answer": "Yes. Creating an account is free. Charges apply only to paid courses or programs that you choose to purchase.",
+      "keywords": ["sign up cost", "registration fee", "free to join", "any charge for signing up"]
+    },
+    {
+      "id": "REG-03",
+      "category": "Registration",
+      "question": "I did not receive my verification email. What should I do?",
+      "answer": "Check your spam or junk folder first. If it is not there, use Resend Verification Email on the login page and make sure your address is spelled correctly.",
+      "keywords": ["confirmation email", "activation link", "email not arriving", "spam folder", "resend verification"]
+    },
+    {
+      "id": "REG-04",
+      "category": "Registration",
+      "question": "Can I register with a social media account?",
+      "answer": "Yes. You can sign up with a Google or LinkedIn account using the corresponding button on the registration page.",
+      "keywords": ["google signup", "sign up with google", "linkedin", "social login", "facebook"]
+    },
+    {
+      "id": "LOG-01",
+      "category": "Login",
+      "question": "Why can't I log in to my account?",
+      "answer": "Check that your email and password are correct and that Caps Lock is off. If the problem continues, reset your password or clear your browser cache and try again.",
+      "keywords": ["login failed", "unable to sign in", "access denied", "incorrect credentials", "cannot login"]
+    },
+    {
+      "id": "LOG-02",
+      "category": "Login",
+      "question": "My account is locked after too many attempts. What now?",
+      "answer": "For security, accounts are locked for 30 minutes after several failed attempts. Wait and try again, or reset your password to unlock it sooner.",
+      "keywords": ["account locked", "blocked", "suspended login", "failed attempts", "too many tries"]
+    },
+    {
+      "id": "LOG-03",
+      "category": "Login",
+      "question": "How do I log out of all devices?",
+      "answer": "Open Settings > Security and choose Sign Out Everywhere. All active sessions will be ended immediately.",
+      "keywords": ["sign out everywhere", "end sessions", "logout other devices", "active sessions"]
+    },
+    {
+      "id": "LOG-04",
+      "category": "Login",
+      "question": "Can I stay logged in on my device?",
+      "answer": "Yes. Tick Remember Me on the login page. Avoid this option on shared or public computers.",
+      "keywords": ["remember me", "keep me signed in", "session expires", "auto login"]
+    },
+    {
+      "id": "PWD-01",
+      "category": "Password",
+      "question": "How can I reset my password?",
+      "answer": "Click Forgot Password on the login page, enter your registered email, and follow the reset link we send you to choose a new password.",
+      "keywords": ["forgot password", "change password", "recover password", "password reset link", "forgotten password"]
+    },
+    {
+      "id": "PWD-02",
+      "category": "Password",
+      "question": "What are the password requirements?",
+      "answer": "Passwords must be at least 8 characters long and include upper and lower case letters, a number, and a special character.",
+      "keywords": ["strong password", "minimum length", "special characters", "password rules", "password policy"]
+    },
+    {
+      "id": "PWD-03",
+      "category": "Password",
+      "question": "The password reset link has expired. What can I do?",
+      "answer": "Reset links are valid for 24 hours. Request a new link from the Forgot Password page and use it as soon as it arrives.",
+      "keywords": ["expired link", "reset link not working", "request new link", "invalid reset link"]
+    },
+    {
+      "id": "PWD-04",
+      "category": "Password",
+      "question": "How do I change my password while logged in?",
+      "answer": "Go to Settings > Security > Change Password, enter your current password, then type and confirm the new one.",
+      "keywords": ["update current password", "settings security", "new password inside account"]
+    },
+    {
+      "id": "CRS-01",
+      "category": "Courses",
+      "question": "How do I enroll in a course?",
+      "answer": "Open the course page and click Enroll Now. Free courses start immediately; paid courses require payment first.",
+      "keywords": ["join course", "sign up for course", "enrollment", "take a course", "start learning"]
+    },
+    {
+      "id": "CRS-02",
+      "category": "Courses",
+      "question": "What courses are available?",
+      "answer": "We offer courses in programming, data science, web development, design and business skills. Browse the Course Catalog to filter by topic and level.",
+      "keywords": ["course catalog", "list of courses", "subjects offered", "programs", "topics available"]
+    },
+    {
+      "id": "CRS-03",
+      "category": "Courses",
+      "question": "Can I access course materials offline?",
+      "answer": "Downloadable resources such as PDFs and notes can be saved for offline use. Video lectures require an internet connection.",
+      "keywords": ["download lectures", "offline learning", "save videos", "no internet", "study without internet"]
+    },
+    {
+      "id": "CRS-04",
+      "category": "Courses",
+      "question": "How long do I have access to a course after enrolling?",
+      "answer": "Most courses include lifetime access. Cohort-based programs stay open for the duration stated on the course page plus 30 days.",
+      "keywords": ["course duration", "validity", "lifetime access", "course expire", "access period"]
+    },
+    {
+      "id": "CER-01",
+      "category": "Certificates",
+      "question": "How do I get a course completion certificate?",
+      "answer": "Complete all lessons and pass the final assessment. Your certificate will then appear under My Certificates, ready to download as a PDF.",
+      "keywords": ["earn certificate", "download certificate", "completion proof", "finish course", "get certificate"]
+    },
+    {
+      "id": "CER-02",
+      "category": "Certificates",
+      "question": "Are the certificates recognized by employers?",
+      "answer": "Certificates show verified proof of completed learning and can be added to your resume and LinkedIn profile. Recognition depends on each employer.",
+      "keywords": ["valid certificate", "accredited", "industry recognition", "value of certificate", "worth"]
+    },
+    {
+      "id": "CER-03",
+      "category": "Certificates",
+      "question": "My name is wrong on my certificate. How can I fix it?",
+      "answer": "Correct your name in Profile settings, then contact support with your certificate ID so the certificate can be reissued.",
+      "keywords": ["correct name", "spelling mistake", "reissue certificate", "certificate error", "wrong name"]
+    },
+    {
+      "id": "CER-04",
+      "category": "Certificates",
+      "question": "How can someone verify my certificate?",
+      "answer": "Every certificate has a unique ID and a verification link. Anyone can paste the ID into the Verify Certificate page to confirm it is genuine.",
+      "keywords": ["certificate verification", "check authenticity", "verify credential", "certificate id", "genuine"]
+    },
+    {
+      "id": "PAY-01",
+      "category": "Payments",
+      "question": "What payment methods do you accept?",
+      "answer": "We accept major credit and debit cards, UPI, net banking and PayPal. Available options may vary by country.",
+      "keywords": ["credit card", "debit card", "upi", "net banking", "paypal", "ways to pay"]
+    },
+    {
+      "id": "PAY-02",
+      "category": "Payments",
+      "question": "How do I request a refund?",
+      "answer": "Refunds can be requested within 7 days of purchase if you have completed less than 20 percent of the course. Submit a request from Billing > Request Refund.",
+      "keywords": ["money back", "cancel payment", "refund policy", "return money", "get refund"]
+    },
+    {
+      "id": "PAY-03",
+      "category": "Payments",
+      "question": "My payment failed but money was deducted.",
+      "answer": "Do not pay again. Failed transactions are usually reversed by your bank within 5 to 7 working days. If not, contact support with your transaction ID.",
+      "keywords": ["payment error", "transaction failed", "amount debited", "charged twice", "money deducted"]
+    },
+    {
+      "id": "PAY-04",
+      "category": "Payments",
+      "question": "Where can I download my invoice or receipt?",
+      "answer": "Open Billing > Payment History and click Download Invoice next to the relevant payment.",
+      "keywords": ["payment receipt", "billing history", "tax invoice", "bill", "purchase proof"]
+    },
+    {
+      "id": "TEC-01",
+      "category": "Technical Support",
+      "question": "The website is loading slowly or not at all.",
+      "answer": "Check your internet connection, refresh the page, and clear your browser cache. If the issue persists, try another browser or contact support.",
+      "keywords": ["page not loading", "slow site", "website down", "lag", "error page"]
+    },
+    {
+      "id": "TEC-02",
+      "category": "Technical Support",
+      "question": "Which browsers and devices are supported?",
+      "answer": "The latest versions of Chrome, Firefox, Edge and Safari are supported on desktop, tablet and phone.",
+      "keywords": ["chrome", "firefox", "safari", "system requirements", "compatible", "supported browser"]
+    },
+    {
+      "id": "TEC-03",
+      "category": "Technical Support",
+      "question": "Video lectures will not play. How can I fix it?",
+      "answer": "Check your connection, lower the video quality, disable browser extensions that block content, and refresh the page. Updating your browser often resolves playback errors.",
+      "keywords": ["video buffering", "video not working", "playback error", "streaming problem", "lecture not playing"]
+    },
+    {
+      "id": "TEC-04",
+      "category": "Technical Support",
+      "question": "How do I contact technical support?",
+      "answer": "Use the Help button in the bottom corner of any page to raise a ticket, or email the support address listed on the Contact page. Include screenshots if possible.",
+      "keywords": ["help desk", "customer care", "report a bug", "support email", "raise a ticket", "talk to support"]
+    },
+    {
+      "id": "INT-01",
+      "category": "Internship",
+      "question": "How do I apply for an internship?",
+      "answer": "Open the Internships page, choose a domain, and submit the application form. Selected candidates receive an offer letter by email.",
+      "keywords": ["internship application", "apply", "join internship program", "how to join", "apply internship"]
+    },
+    {
+      "id": "INT-02",
+      "category": "Internship",
+      "question": "How long is the internship program?",
+      "answer": "Internship programs typically run for 4 to 8 weeks, depending on the domain. The exact duration is mentioned in your offer letter.",
+      "keywords": ["internship duration", "weeks", "months", "program length", "how many weeks"]
+    },
+    {
+      "id": "INT-03",
+      "category": "Internship",
+      "question": "Do I receive an internship certificate?",
+      "answer": "Yes. Interns who complete the required tasks and submit them on time receive a completion certificate and, on request, a letter of recommendation.",
+      "keywords": ["internship completion certificate", "offer letter", "experience letter", "intern certificate"]
+    },
+    {
+      "id": "INT-04",
+      "category": "Internship",
+      "question": "Can I submit my internship tasks on GitHub?",
+      "answer": "Yes. Upload your project to a public GitHub repository, then submit the repository link through the task submission form along with any required demo video.",
+      "keywords": ["task submission", "submit project", "github repository", "deliverables", "submit tasks"]
+    },
+    {
+      "id": "GEN-01",
+      "category": "General Information",
+      "question": "What is this platform about?",
+      "answer": "We are an online learning and internship platform that helps students build practical, job-ready skills through courses, projects and mentorship.",
+      "keywords": ["about us", "what do you offer", "mission", "overview", "who are you"]
+    },
+    {
+      "id": "GEN-02",
+      "category": "General Information",
+      "question": "What are your support hours?",
+      "answer": "Our support team is available Monday to Friday, 9 AM to 6 PM. Messages sent outside these hours are answered the next working day.",
+      "keywords": ["working hours", "business hours", "availability", "when are you open", "office timings"]
+    },
+    {
+      "id": "GEN-03",
+      "category": "General Information",
+      "question": "Is there a mobile app available?",
+      "answer": "Yes. Our app is available for Android and iOS. Search for the platform name in the Play Store or App Store and sign in with your existing account.",
+      "keywords": ["android app", "ios app", "download app", "phone application", "mobile application"]
+    },
+    {
+      "id": "GEN-04",
+      "category": "General Information",
+      "question": "How can I give feedback or suggestions?",
+      "answer": "Use the Feedback form in the footer of any page. We read every submission and use it to improve the platform.",
+      "keywords": ["feedback form", "suggest improvement", "share opinion", "rate us", "review platform"]
+    }
+  ]
+}
